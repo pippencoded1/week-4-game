@@ -1,0 +1,58 @@
+/* .container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+} */
+
+
+h1{
+    font-size: 40px;
+    color: blue;
+    background-color: lightslategrey
+
+}
+
+.heading {
+    clear:all;
+    width: 150px;
+
+}
+
+#instructions { 
+    color: black;
+    background-color: lightslategray;
+    font-size: 10px;
+    width: 250px;
+
+}
+
+#body {
+    background-image:url(https://www.toptal.com/designers/subtlepatterns/patterns/diamond_upholstery.png);
+    background-repeat: repeat;
+
+}
+
+#targetnumbers {
+    background-color: lightslategray;
+    font-size: 30px;
+    width: 250px;
+
+}
+
+#win {
+    font-size: 30px;
+    background-color: lightslategray;
+    width: 250px;
+
+}
+
+#loss {
+    font-size: 30px;
+    background-color: lightslategray;
+    width: 250px;
+}
+
+
+ 
+   
